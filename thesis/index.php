@@ -42,7 +42,7 @@ include("configure.php");
 	<div id="page">
 		<div id="content"><img src="images/missionvission.png" width="600" height="250" alt="" />
 	
-			
+		<h2>WELCOME STUDENT</h2>	
 		</div>
 		<div id="sidebar">
 			<div id="sbox1">
